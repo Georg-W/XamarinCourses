@@ -1,0 +1,4 @@
+CoursesAndroid.MainActivity, CoursesAndroid;md5c9398e8072e798578483fb617b3a2097.MainActivity
+CoursesAndroid.MainActivity, CoursesAndroid, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md5c9398e8072e798578483fb617b3a2097.MainActivity
+CoursesAndroid.MainActivity;md5c9398e8072e798578483fb617b3a2097.MainActivity
+coursesandroid.MainActivity;md5c9398e8072e798578483fb617b3a2097.MainActivity
